@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marcuuur
 - 👀 I’m interested in linguistics & data science
-- 🌱 I’m currently learning python
 - 📫 How to reach me marcuralvaro@gmail.com
 
 <!---
